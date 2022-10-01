@@ -1,10 +1,10 @@
 # Linkedin_Job_Scraping
 #### Scrape data from professional networking platform LinkedIn using python library called Selenium and make 3 tables using the data i.e. Company Table, Job Table and Details Table:
 <h2>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Role :
+  <img src="https://studio.code.org/v3/assets/94Dl-F9cvXgEbDXZzpCH57uMXtEkbaC4pJswu8WXriE/petshop_intro.gif" width="50"> Role :
 </h2>
 <br>
-<p><img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif"/></p>
+<p><img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/></p>
 
 1. Use Python libraries to scrap the required data From Linkedin job page.
 
