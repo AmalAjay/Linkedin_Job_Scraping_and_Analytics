@@ -39,17 +39,16 @@
 
 - Comparison of number of jobs across different cities for different level
 
-- Generate some insight with respect to number of jobs distribution across various industry. For instance, what is the total number of jobs in `Software` Industry as compared to `Marketing`
+- Generated some insight with respect to number of jobs distribution across various industry. For instance, what is the total number of jobs in `Software` Industry as compared to `Marketing`
 
-- Generate insights into number of opening with respect to the current employee count - Number of opening in a company with more than 1000 employees in comparison to number of openings in a company with 100 employees
+- Generated insights into number of openings with respect to the current employee count - Number of opening in a company with more than 1000 employees in comparison to number of openings in a company with 100 employees
 
 <h2>
   Dashboard :
 </h2>
 <br>
 
-![Linkedin Dashboard](https://user-images.githubusercontent.com/111438671/193406869-a2e83a28-225d-4df1-ac4b-47b92138c455.png)
-
+![Dashboard]((https://user-images.githubusercontent.com/111438671/193406831-15b42b4b-c2aa-4321-9b8f-4265657ac704.png))
 <br>
 
 <br>
