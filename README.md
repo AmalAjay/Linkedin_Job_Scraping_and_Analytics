@@ -48,7 +48,8 @@
 </h2>
 <br>
 
-![Dashboard](https://user-images.githubusercontent.com/97454705/193266669-f06ceff4-47d8-49fa-b423-d0c8f12f1cdc.png)
+![Linkedin Dashboard](https://user-images.githubusercontent.com/111438671/193406869-a2e83a28-225d-4df1-ac4b-47b92138c455.png)
+
 <br>
 
 <br>
